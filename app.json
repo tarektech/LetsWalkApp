@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LetsWalkApp",
-    "slug": "LetsWalkApp",
+    "name": "lets-walk-app",
+    "slug": "lets-walk-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
